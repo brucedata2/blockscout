@@ -6,6 +6,7 @@
 
 ### Fixes
 
+- [#8965](https://github.com/blockscout/blockscout/pull/8965) - Set poll: false for internal transactions fetcher
 - [#8955](https://github.com/blockscout/blockscout/pull/8955) - Remove daily balances updating from BlockReward fetcher
 
 ### Chore
