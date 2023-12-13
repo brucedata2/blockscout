@@ -8,6 +8,8 @@
 
 ### Chore
 
+- [#8996](https://github.com/blockscout/blockscout/pull/8996) - Refine token transfers token ids index
+
 <details>
   <summary>Dependencies version bumps</summary>
 </details>
