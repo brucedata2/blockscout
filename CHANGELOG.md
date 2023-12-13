@@ -10,6 +10,7 @@
 
 ### Chore
 
+- [#9000](https://github.com/blockscout/blockscout/pull/9000) - Change log topic type in the DB to bytea
 - [#8991](https://github.com/blockscout/blockscout/pull/8991) - Manage DB queue target via runtime env var
 
 <details>
