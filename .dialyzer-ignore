@@ -26,5 +26,3 @@ lib/block_scout_web/views/api/v2/transaction_view.ex:472
 lib/explorer/chain/transaction.ex:167
 lib/explorer/chain/transaction.ex:1452
 lib/explorer/chain/transaction.ex:1453
-lib/explorer/chain/search.ex:559
-lib/explorer/chain/search.ex:572
