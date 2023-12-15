@@ -10,6 +10,7 @@
 
 ### Chore
 
+- [#9006](https://github.com/blockscout/blockscout/pull/9006) - Drop unused indexes on address_current_token_balances table
 - [#8991](https://github.com/blockscout/blockscout/pull/8991) - Manage DB queue target via runtime env var
 
 <details>
