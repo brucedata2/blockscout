@@ -10,6 +10,7 @@
 
 ### Chore
 
+- [#9009](https://github.com/blockscout/blockscout/pull/9009) - Index for block refetch_needed
 - [#8991](https://github.com/blockscout/blockscout/pull/8991) - Manage DB queue target via runtime env var
 
 <details>
