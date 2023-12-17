@@ -6,6 +6,7 @@
 
 ### Fixes
 
+- [#9015](https://github.com/blockscout/blockscout/pull/9015) - Optimize NFT owner preload
 - [#8955](https://github.com/blockscout/blockscout/pull/8955) - Remove daily balances updating from BlockReward fetcher
 
 ### Chore
