@@ -4,6 +4,7 @@
 
 ### Features
 
+- [#9018](https://github.com/blockscout/blockscout/pull/9018) - Add SmartContractRealtimeEventHandler
 - [#8957](https://github.com/blockscout/blockscout/pull/8957) - Add Tx Interpreter Service integration
 
 ### Fixes
