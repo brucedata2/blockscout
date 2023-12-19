@@ -2,6 +2,10 @@
 
 Runs Blockscout locally in Docker containers with [docker-compose](https://github.com/docker/compose).
 
+```shell
+docker-compose -f docker-compose-nu-build-geth.yml up -d
+```
+
 ## Prerequisites
 
 - Docker v20.10+
